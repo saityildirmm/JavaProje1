@@ -1,0 +1,11 @@
+Git : VCS kod takip programı
+GitHub: Git in Bulutdaki adı
+
+Tracking : Takip etmek
+            Kırmızı : Takip edilmeyen yani degişiklikleri saklanmayan dosya demek
+            yesil : Takip, degişiklikleri kaydedilen.
+
+            Takip e eklemek için Git -> Add
+            Takipde çıkarmak için Git -> Rollcack
+
+            Commit : yapılan işlemlere ETİKET-Başlık vermek demek
