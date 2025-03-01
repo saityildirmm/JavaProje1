@@ -5,12 +5,11 @@ public class LoginTesti {
 
 
         // Bu bolum Login testi icin , yeni sifre modeline gore yazıldı.
-        System.out.println("Yeni login testi ");
-
-        // cok satur yazdım kodları bitirdim.
-        System.out.println("Login TEsti 1");
+        System.out.println("Yeni login Testi 1 ");
 
         System.out.println("Sepet testi yazıldı bitirildi 3 günlük kod yazıldı ");
+
+        System.out.println("Yeni login testi yapıldı , 7 gün ugrastım");
 
     }
 }
