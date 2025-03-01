@@ -10,5 +10,7 @@ public class LoginTesti {
         // cok satur yazdım kodları bitirdim.
         System.out.println("Login TEsti 1");
 
+        System.out.println("Sepet testi yazıldı bitirildi 3 günlük kod yazıldı ");
+
     }
 }
